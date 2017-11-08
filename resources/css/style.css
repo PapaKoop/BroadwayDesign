@@ -15,38 +15,39 @@
 .broadway h3 {
   font-size: 18px;
 }
- .broadway a {
-   color: White;
- }
 
- h6 {
+.broadway a {
+   color: White;
+}
+
+h6 {
    font-size: 23px;
    font-weight: bold;
    color: White;
- }
+}
 
- h2 {
+h2 {
    font-size: 32px;
    font-weight: bold;
- }
+}
 
- h4 {
+h4 {
    font-size: 23px;
    font-weight: bold;
- }
+}
 
- h5 {
+h5 {
    font-size: 14px;
- }
+}
 
- .foot {
+.foot {
    background-color: dimgray;
    font-size: 11px;
    color: White;
    text-align: left;;
- }
+}
 
- .foot a {
+.foot a {
    color: White;
    font-size: 18px;
- }
+}
